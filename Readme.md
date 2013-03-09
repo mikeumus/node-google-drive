@@ -1,4 +1,4 @@
-[![build status](https://secure.travis-ci.org/niftylettuce/node-google-drive.png)](http://travis-ci.org/niftylettuce/node-google-drive)
+[![build status](https://secure.travis-ci.org/mikeumus/node-google-drive.png)](http://travis-ci.org/mikeumus/node-google-drive)
 
 # node-google-drive
 
@@ -12,4 +12,4 @@ npm install google-drive
 
 ## Example usage
 
-Coming soon.
+Coming sooner...
